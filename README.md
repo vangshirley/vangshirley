@@ -3,7 +3,7 @@
 <br>👀UI/UX Designer here looking to collaborate with others to build my UI/UX portfolio.
 <br>:raising_hand:She/Her
 <br>
-<br>🌱I currently learning HTML, CSS, & Javascript skills, and looking forward to strengthening these skills.
+<br>🌱I am currently learning HTML, CSS, & Javascript skills, and looking forward to strengthening these skills.
 <br>:pencil2:I would love to learn digital illustration.
 <br>:yellow_heart: I would love to connect, and hear about your inspiring tech journeys!
 <br>
